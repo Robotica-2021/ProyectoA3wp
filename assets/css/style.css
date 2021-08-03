@@ -737,7 +737,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us .container {
-  box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
+  box-shadow: 0 5px 25px 0 rgba(216, 214, 214, 0.6);
   background: #fff;
 }
 
@@ -752,7 +752,7 @@ section {
   justify-content: center;
   width: 72px;
   height: 72px;
-  background: #f3f8fa;
+  background: #ff0404;
   border-radius: 6px;
   transition: 0.5s;
 }
@@ -779,7 +779,7 @@ section {
 }
 
 .why-us .icon-box .title a {
-  color: #343a40;
+  color: #403434;
   transition: 0.3s;
 }
 
@@ -805,7 +805,7 @@ section {
 .why-us .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#c48568 50%, rgba(104, 164, 196, 0.4) 52%);
+  background: radial-gradient(#c48568 50%, rgba(196, 104, 104, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
